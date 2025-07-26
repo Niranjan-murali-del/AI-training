@@ -1,2 +1,0 @@
-# AI-training
-good
